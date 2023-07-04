@@ -1,2 +1,1 @@
-matplotlib @ file:///C:/b/abs_49b2acwxd4/croot/matplotlib-suite_1679593486357/work
-matplotlib-inline @ file:///C:/ci/matplotlib-inline_1661934094726/work
+matplotlib 
