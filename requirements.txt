@@ -5,7 +5,7 @@ pandas
 plotly 
 scikit-image 
 scikit-learn 
-scikit-learn-intelex==20230228.214818
+scikit-learn-intelex
 scipy==1.10.0
 seaborn 
 streamlit==1.24.0
